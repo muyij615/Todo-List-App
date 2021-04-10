@@ -7,7 +7,7 @@
 &nbsp; &nbsp; <img align="top" src="https://user-images.githubusercontent.com/63463317/114272270-1c6a8d80-9a48-11eb-8a65-fecb4045081b.png" width="500">
 
 <br/> <br/>
-![demo](https://github.com/muyij615/media-file/blob/main/Desktop/Screen-Recording-2021-04-10-at-6.13.38-PM.GIF)
+<br/>A sample gif of how to operate the app
 
 ![demo](https://github.com/muyij615/media-file/blob/main/Desktop/ezgif.com-gif-maker.gif)
 
