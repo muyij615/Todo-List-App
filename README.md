@@ -3,6 +3,4 @@
 <br/>• It allows users to add and update a task with title, details, and time.
 <br/>• All data is stored in a Firebase realtime database.
 <br/>• UI is well designed with a launch-page animation
-<br/> ![image](https://user-images.githubusercontent.com/63463317/114271632-e7107080-9a44-11eb-9dfd-72e5e1402bb2.png | width=100)
-
 <img src="https://user-images.githubusercontent.com/63463317/114271632-e7107080-9a44-11eb-9dfd-72e5e1402bb2.png" width="200">
